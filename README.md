@@ -1,6 +1,6 @@
 # Ferramenta InVision
 
-Bem-vindo ao repositório da minha apresentação sobre a **ferramenta InVision**! Este material foi preparado para uma aula em que abordo as principais funcionalidades e benefícios do uso do InVision para design colaborativo e prototipagem.
+Bem-vindo ao repositório da nossa apresentação sobre a **ferramenta InVision**! Este material foi preparado para uma aula em que é aborado as principais funcionalidades e benefícios do uso do InVision para design colaborativo e prototipagem.
 
 ## 📚 Conteúdo da Apresentação
 
